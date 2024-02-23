@@ -1,2 +1,2 @@
 line 1 local
-line 2 change
+line 2 changes
