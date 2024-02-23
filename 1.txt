@@ -1,1 +1,2 @@
-Line 1 local
+Line1 local
+Line2 remote
