@@ -1,4 +1,4 @@
-Line1 conflict
+Line1 change
 Line2 remote
 line3 IDEA
 line4 IDEA
